@@ -3,7 +3,7 @@ let palavras = ["mamao",
     "maca",
     "melao",
     "melancia",
-    "laranja"];
+    "laranja"]
 let letra = "m";
 
 for (let letraEscolhida of palavras) {
